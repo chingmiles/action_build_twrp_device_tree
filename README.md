@@ -1,4 +1,4 @@
-原始仓库workflows中的Ubuntu18.06已被弃用，现已更新为Ubuntu20.04，Python版本也一并更新！
+原始仓库workflows中的Ubuntu18.04已被弃用，现已更新为Ubuntu20.04，Python版本也一并更新！
 
 -----
 
