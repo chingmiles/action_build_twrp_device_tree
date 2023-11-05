@@ -1,4 +1,4 @@
-原始仓库工作流程中的Ubuntu18.06已被弃用，现先已更新为Ubuntu20.04，Python版本也一并更新！可以正常生成你的设备树
+原始仓库workflows中的Ubuntu18.06已被弃用，现先已更新为Ubuntu20.04，Python版本也一并更新！
 
 -----
 
@@ -14,7 +14,7 @@
 
 -----
 
-- 3.将recovery.img或boot.img上传至一个可以提供直链下载的位置，这里我推荐直接将img文件上传至这个仓库，然后点进去点view raw，来获取直链
+- 3.将recovery.img或boot.img上传至https://transfer.sh，上传完毕后复制该链接
 
 -----
 
