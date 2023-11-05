@@ -14,11 +14,11 @@
 
 -----
 
-- 3.将recovery.img或boot.img上传至https://transfer.sh，上传完毕后复制该链接
+- 3.将recovery.img或boot.img上传至 https://transfer.sh 
 
 -----
 
-- 4.点击actions － make twrp device － run workflow，然后在那个链接框里面输入你刚刚获取的直链
+- 4.点击actions － make twrp device － run workflow，将获取到的链接复制粘贴到IMG_URL
 
 -----
 
