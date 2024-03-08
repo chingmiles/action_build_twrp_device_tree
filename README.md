@@ -3,6 +3,7 @@
 -----
 
 # TWRP Device Tree生成工具
+
 - 这个工具怎么用？
   1.从原厂固件中提取boot.img或者recovery分区
   
