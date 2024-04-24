@@ -16,7 +16,7 @@
 
 -----
 
-- 3.将recovery.img或boot.img上传至 https://transfer.sh 
+- 3.将recovery.img或boot.img上传至 https://bashupload.com/
 
 -----
 
